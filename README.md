@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @evans-owa
-- 👀 I’m interested in front-end web developemnt, a alittle bit of Databses  i do a little netwroking at my free time
-- 🌱 I’m currently learning Assembly language & PHP intergration to MYsql.
-- 💞️ I’m looking to collaborate on front-end web development
-- 📫 How to reach me owagoevans91@gmail.com
+- 🐱‍👤Hello Evans Odhis here.
+- 🔧 Making adjustment.
+- 🌱 Grownig on Front-end Development.
+- 🌆 I’m seeking remote development program.
+- 📫 How to reach me owagoevans90@gmail.com
 
 <!---
 evans-owa/evans-owa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
